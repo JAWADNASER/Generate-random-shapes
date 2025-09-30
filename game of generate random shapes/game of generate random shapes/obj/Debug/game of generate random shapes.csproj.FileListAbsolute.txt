@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\game of generate random shapes\game of generate random shapes\bin\Debug\game of generate random shapes.exe.config
+C:\Users\LENOVO\source\repos\game of generate random shapes\game of generate random shapes\bin\Debug\game of generate random shapes.exe
+C:\Users\LENOVO\source\repos\game of generate random shapes\game of generate random shapes\bin\Debug\game of generate random shapes.pdb
+C:\Users\LENOVO\source\repos\game of generate random shapes\game of generate random shapes\obj\Debug\game of generate random shapes.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\game of generate random shapes\game of generate random shapes\obj\Debug\game of generate random shapes.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\game of generate random shapes\game of generate random shapes\obj\Debug\game of generate random shapes.exe
+C:\Users\LENOVO\source\repos\game of generate random shapes\game of generate random shapes\obj\Debug\game of generate random shapes.pdb
+C:\Users\LENOVO\source\repos\game of generate random shapes\game of generate random shapes\obj\Debug\game of generate random shapes.exe.config
